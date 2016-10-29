@@ -4,7 +4,7 @@ require_once('path.inc');
 require_once('get_host_info.inc');
 require_once('rabbitMQLib.inc');
 
-$db = new mysqli("10.200.174.60","server","letMe1n","user_info");
+$db = new mysqli("10.200.44.105","server","letMe1n","user_info");
 $log = fopen( 'thump.log', 'a' );
 
 function now()
@@ -94,8 +94,7 @@ function register($user, $pass, $db)
     }
     if($db->query($q) == TRUE)
     {
-        print "SUCC";
-        //return "SUCC";
+        
         $result =  createPositionTable($user, $db);
         if($result == "SUCC")
         {

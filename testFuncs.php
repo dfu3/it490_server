@@ -34,6 +34,18 @@ function getExFor($base)
 
 }
 
-print_r(getExFor('EUR'));
+$arr = getExFor('EUR');
+
+$table = '<table>';
+$table.= '<tr> <th> Currency </th> <th> Rate </th> </tr>';
+
+foreach($arr as $curr=>$rate)
+    {
+        $table.= '<tr> <td> ' . $curr . ' </td> <td> ' . $rate . '</td> </tr>';
+    }
+$table.= '</table>';
+
+print $table;
+
 
 ?>

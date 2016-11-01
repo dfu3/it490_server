@@ -3,13 +3,50 @@
 require_once('path.inc');
 require_once('get_host_info.inc');
 require_once('rabbitMQLib.inc');
+require('trade.php');
 
-$db = new mysqli("10.200.44.105","server","letMe1n","user_info");
+$db = new mysqli("10.200.45.127","server","letMe1n","user_info");
 $log = fopen( 'thump.log', 'a' );
 
 function now()
 {
     return (new \DateTime())->format('Y-m-d H:i:s') . PHP_EOL;
+}
+function makeTrade($user, $curr1, $amount, $curr2)
+{
+    global $db;
+    global $log;
+
+    fwrite($log, "==>BEGIN makeTrade<== | " . now());
+    return trade($user, $curr1, $amount, $curr2, $db);
+}
+function getUserPos($user)
+{
+    global $db;
+    global $log;
+
+    fwrite($log, "==>BEGIN getUserPos<== | " . now());
+    
+    $positions = array();
+
+    $q = "select * from $user;";
+    if($db->query($q) == TRUE)
+        {
+            $res = $db->query($q);
+
+            $table = '<table>';
+            $table.= '<tr> <th> Currency </th> <th> Position </th> </tr>';
+
+            while($r = $res->fetch_array(MYSQLI_ASSOC))
+                {
+                    $table.= '<tr> <td> ' . $r['currency'] . ' </td> <td> ' . $r['position'] . '</td> </tr>';
+                }
+            $table.= '</table>';
+
+            fwrite($log, "==>EXIT getUserPos<== | " . now());
+            
+            return $table;
+        }
 }
 
 function getExFor($base)
@@ -49,7 +86,7 @@ function getExFor($base)
                     $table.= '<tr> <td> ' . $curr . ' </td> <td> ' . $exRate . '</td> </tr>';
                 }
             $table.= '</table>';
-            print $table;
+           
             fwrite($log, "==>EXIT getExFor<== | " . now());
             
             return $table;
@@ -198,6 +235,7 @@ function requestProcessor($request)
   global $db;
   global $log;
   fwrite($log, "==>RECEIVED REQUEST<==" . PHP_EOL);
+  print('REQ'.PHP_EOL);
   
   if(!isset($request['type']))
   {
@@ -213,8 +251,12 @@ function requestProcessor($request)
         return doValidate($request['sessionId']);
     case "get_ex_for_base":
         return (getExFor($request['base']));
+    case "get_user_pos":
+        return getUserPos($request['username']);
+    case "make_trade":
+        return makeTrade($request['username'], $request['curr1'], $request['amount'], $request['curr2']);
   }
-  //return array("returnCode" => '0', 'message'=>"Server received request and processed");
+ 
 }
 
 $server = new rabbitMQServer("testRabbitMQ.ini","testServer");

@@ -1,84 +1,12 @@
 #!/usr/bin/php
 <?php
-
-$db = new mysqli("10.200.45.127","server","letMe1n","user_info");
-
-
-
-function getExFor($base)
+function trade($user, $curr1, $amount, $curr2, $db)
 {
-    global $db;
-    $rates = array();
-
-    $q = "select * from exchange where currency_1='" . $base ."' or currency_2='" . $base ."';";
-    if($db->query($q) == TRUE)
-        {
-            $res = $db->query($q);
-            while($r = $res->fetch_array(MYSQLI_ASSOC))
-                {
-                    if($r['currency_1'] == $base)
-                        {
-                            $rates[$r['currency_2']] = $r['rate'];
-                        }
-                    else
-                        {
-                            $rate = $r['rate'];
-                            $rate = int($rate);
-                            $rate = (1/$rate);
-
-                            $rates[$r['currency_1']] = string($rate);
-                        }
-                }
-
-            return $rates;
-
-        }
-
-}
-
-$arr = getExFor('EUR');
-
-$table = '<table>';
-$table.= '<tr> <th> Currency </th> <th> Rate </th> </tr>';
-
-foreach($arr as $curr=>$rate)
-    {
-        $table.= '<tr> <td> ' . $curr . ' </td> <td> ' . $rate . '</td> </tr>';
-    }
-$table.= '</table>';
-
-function getUserPos($user)
-{
-    global $db;
-    $positions = array();
-
-    $q = "select * from $user;";
-    if($db->query($q) == TRUE)
-        {
-            $res = $db->query($q);
-
-            $table = '<table>';
-            $table.= '<tr> <th> Currency </th> <th> Position </th> </tr>';
-
-            while($r = $res->fetch_array(MYSQLI_ASSOC))
-                {
-                    $table.= '<tr> <td> ' . $r['currency'] . ' </td> <td> ' . $r['position'] . '</td> </tr>';
-                }
-            $table.= '</table>';
-
-            return $table;
-        }
-}
-
-function trade($user, $curr1, $amount, $curr2)
-{
-    global $db;
     $q = "select * from $user;";
 
     if($db->query($q) == TRUE)
         {
             $pos = $db->query($q);
-            #$posArr = $pos->fetch_array(MYSQLI_ASSOC);
             
             $fromExist = false;
             $toExist = false;
@@ -99,7 +27,7 @@ function trade($user, $curr1, $amount, $curr2)
                         }
                 }
             mysqli_data_seek($pos, 0);
-            if($fromExist == false) {return "no money in that curr";}
+            if($fromExist == false) {return "IF";}
 
             while($pr = $pos->fetch_array(MYSQLI_ASSOC))
                 {
@@ -143,6 +71,7 @@ function trade($user, $curr1, $amount, $curr2)
                                             $q2 = "update $user set position='" . (floatval($fromPos) - floatval($amount)) . "' where currency='" . $curr1 .  "';"; 
                                             $db->query($q1) or die($db->error);
                                             $db->query($q2) or die($db->error);
+                                            return "SUCC";
                                         }
 
                                 }
@@ -153,7 +82,5 @@ function trade($user, $curr1, $amount, $curr2)
     else
         return $db->error;
 }
-
-print trade('cheesecake', 'USD', '5.000', 'CHY');
 
 ?>

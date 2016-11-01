@@ -2,6 +2,7 @@
 <?php
 function trade($user, $curr1, $amount, $curr2, $db)
 {
+
     $q = "select * from $user;";
 
     if($db->query($q) == TRUE)
@@ -27,8 +28,9 @@ function trade($user, $curr1, $amount, $curr2, $db)
                         }
                 }
             mysqli_data_seek($pos, 0);
+            
             if($fromExist == false) {return "IF";}
-
+      
             while($pr = $pos->fetch_array(MYSQLI_ASSOC))
                 {
                     if($pr['currency'] == $curr1)
@@ -39,13 +41,14 @@ function trade($user, $curr1, $amount, $curr2, $db)
                                 }
                             else
                                 {
-                                    $q = "select * from exchange where currency_1='" . $curr1 . "' or currency_2='" . $curr2 . "';"; #todo figure out if reversed
+                                    $q = "select * from exchange where (currency_1='" . $curr1 . "' and currency_2='" . $curr2 . "') or (currency_1='" . $curr2 . "' and currency_2='" . $curr1 . "');";
 
-                                    if($db->query($q) == TRUE)
+                                    if($db->query($q) == true)
                                         {
                                             $ex= $db->query($q);
                                             while($er = $ex->fetch_array(MYSQLI_ASSOC))
                                                 {
+                                                    
                                                     if($er['currency_1'] == $curr1)
                                                         {
                                                             $rate = floatval($er['rate']); #if reversed: rate = 1/rate
@@ -68,11 +71,21 @@ function trade($user, $curr1, $amount, $curr2, $db)
                                                     $q1 = "insert into $user (currency, position) values ('" . $curr2 . "', '" . $newPos . "');";
                                                 }
 
-                                            $q2 = "update $user set position='" . (floatval($fromPos) - floatval($amount)) . "' where currency='" . $curr1 .  "';"; 
+                                            if( (floatval($fromPos) != floatval($amount)) )
+                                                {
+                                                    $q2 = "update $user set position='" . (floatval($fromPos) - floatval($amount)) . "' where currency='" . $curr1 .  "';"; 
+                                                }
+                                            else
+                                                {
+                                                    $q2 = "delete from $user where currency='" . $curr1 . "';";
+                                                }
+                                            
+                                            
                                             $db->query($q1) or die($db->error);
                                             $db->query($q2) or die($db->error);
                                             return "SUCC";
                                         }
+                                    print("asdfasf");
 
                                 }
                         }

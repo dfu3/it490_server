@@ -235,7 +235,7 @@ function requestProcessor($request)
   global $db;
   global $log;
   fwrite($log, "==>RECEIVED REQUEST<==" . PHP_EOL);
-  print('REQ'.PHP_EOL);
+  print('REQ recieved'.PHP_EOL);
   
   if(!isset($request['type']))
   {

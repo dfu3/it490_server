@@ -2,6 +2,7 @@
 <?php
 function trade($user, $curr1, $amount, $curr2, $db)
 {
+    
 
     $q = "select * from $user;";
 
@@ -93,7 +94,7 @@ function trade($user, $curr1, $amount, $curr2, $db)
                 }
         }
     else
-        return $db->error;
+        return "NU";
 }
 
 ?>

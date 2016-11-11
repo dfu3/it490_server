@@ -86,7 +86,7 @@ function trade($user, $curr1, $amount, $curr2, $db)
                                             $db->query($q2) or die($db->error);
                                             return "SUCC";
                                         }
-                                    print("asdfasf");
+                                    
 
                                 }
                         }

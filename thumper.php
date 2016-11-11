@@ -5,13 +5,25 @@ require_once('get_host_info.inc');
 require_once('rabbitMQLib.inc');
 require('trade.php');
 
-$db = new mysqli("10.200.45.127","server","letMe1n","user_info");
+$db = new mysqli("10.200.173.26","server","letMe1n","user_info");
 $log = fopen( 'thump.log', 'a' );
 
 function now()
 {
     return (new \DateTime())->format('Y-m-d H:i:s') . PHP_EOL;
 }
+
+function currList()
+{
+    global $db;
+    global $log;
+
+    $q = "select currency, description from currency;";
+    $res = $db->query($q);
+    print_r($res);
+    return $res;
+}
+
 function makeTrade($user, $curr1, $amount, $curr2)
 {
     global $db;
@@ -235,7 +247,6 @@ function requestProcessor($request)
   global $db;
   global $log;
   fwrite($log, "==>RECEIVED REQUEST<==" . PHP_EOL);
-  print('REQ recieved'.PHP_EOL);
   
   if(!isset($request['type']))
   {
@@ -255,6 +266,8 @@ function requestProcessor($request)
         return getUserPos($request['username']);
     case "make_trade":
         return makeTrade($request['username'], $request['curr1'], $request['amount'], $request['curr2']);
+    case "get_curr_list":
+        return currList();
   }
  
 }

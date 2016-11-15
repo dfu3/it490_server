@@ -4,7 +4,6 @@
 $db = new mysqli("10.200.45.127","server","letMe1n","user_info");
 
 
-
 function getExFor($base)
 {
     global $db;

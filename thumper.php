@@ -10,7 +10,7 @@ require('libFiles/userPos.php');
 require('libFiles/verLogin.php');
 require('libFiles/getHist.php');
 
-$db = new mysqli("10.200.X.X","server","letMe1n","user_info");
+$db = new mysqli("10.200.173.156","server","letMe1n","user_info");
 $log = fopen( 'thump.log', 'a' );
 
 function history($curr1, $curr2)

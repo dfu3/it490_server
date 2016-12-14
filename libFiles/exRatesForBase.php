@@ -25,15 +25,16 @@ function exRatesForBase($base, $db)
                         }
                 }
 
-            $table = '<table>';
-            $table.= '<tr> <th> Currency </th> <th> Rate </th> </tr>';
-
+            $table = "<table id='exRates'>";
+            $table.= '<thead> <tr> <th> Currency </th> <th> Rate </th> </tr> </thead>';
+            $table.= '<tbody>';
             foreach($rates as $curr=>$exRate)
                 {
                     $table.= '<tr> <td> ' . $curr . ' </td> <td> ' . $exRate . '</td> </tr>';
                 }
+            $table.= '</tbody>';
             $table.= '</table>';
-                      
+            
             return $table;
 
         }

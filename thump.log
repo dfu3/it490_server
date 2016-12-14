@@ -2692,3 +2692,2024 @@ SUCC
 ==>RECEIVED REQUEST<==
 ==>BEGIN currList<== | 2016-12-07 14:25:00
 ==>END currList<== | 2016-12-07 14:25:00
+>->->BEGIN LOG<-<-< | 2016-12-13 11:00:45
+>->->BEGIN LOG<-<-< | 2016-12-13 11:12:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 11:14:11
+==>EXIT getExFor<== | 2016-12-13 11:14:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 11:14:11
+==>END currList<== | 2016-12-13 11:14:11
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 11:21:09
+==>EXIT getExFor<== | 2016-12-13 11:21:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 11:21:09
+==>END currList<== | 2016-12-13 11:21:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 11:47:06
+==>EXIT getExFor<== | 2016-12-13 11:47:07
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 11:47:07
+==>END currList<== | 2016-12-13 11:47:07
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 11:53:37
+==>EXIT getExFor<== | 2016-12-13 11:53:37
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 11:53:38
+==>END currList<== | 2016-12-13 11:53:38
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:28:55
+==>EXIT getExFor<== | 2016-12-13 12:28:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:28:55
+==>END currList<== | 2016-12-13 12:28:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:29:36
+==>EXIT getExFor<== | 2016-12-13 12:29:36
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:29:37
+==>END currList<== | 2016-12-13 12:29:37
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:34:26
+==>EXIT getExFor<== | 2016-12-13 12:34:26
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:34:26
+==>END currList<== | 2016-12-13 12:34:27
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:44:18
+==>EXIT getExFor<== | 2016-12-13 12:44:19
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:44:19
+==>END currList<== | 2016-12-13 12:44:19
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:45:37
+==>EXIT getExFor<== | 2016-12-13 12:45:37
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:45:37
+==>END currList<== | 2016-12-13 12:45:37
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:54:38
+==>EXIT getExFor<== | 2016-12-13 12:54:38
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:54:39
+==>END currList<== | 2016-12-13 12:54:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:57:13
+==>EXIT getExFor<== | 2016-12-13 12:57:13
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:57:14
+==>END currList<== | 2016-12-13 12:57:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 12:59:33
+==>EXIT getExFor<== | 2016-12-13 12:59:33
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 12:59:34
+==>END currList<== | 2016-12-13 12:59:34
+>->->BEGIN LOG<-<-< | 2016-12-13 13:03:01
+>->->BEGIN LOG<-<-< | 2016-12-13 13:03:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:09:30
+==>EXIT getExFor<== | 2016-12-13 13:09:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:09:31
+==>END currList<== | 2016-12-13 13:09:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:09:50
+==>EXIT getExFor<== | 2016-12-13 13:09:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:09:50
+==>END currList<== | 2016-12-13 13:09:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:11:30
+==>EXIT getExFor<== | 2016-12-13 13:11:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:11:30
+==>END currList<== | 2016-12-13 13:11:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:14:28
+==>EXIT getExFor<== | 2016-12-13 13:14:28
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:14:29
+==>END currList<== | 2016-12-13 13:14:29
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:17:48
+==>EXIT getExFor<== | 2016-12-13 13:17:48
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:17:49
+==>END currList<== | 2016-12-13 13:17:49
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:18:25
+==>EXIT getExFor<== | 2016-12-13 13:18:25
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:18:25
+==>END currList<== | 2016-12-13 13:18:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:19:46
+==>EXIT getExFor<== | 2016-12-13 13:19:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:19:46
+==>END currList<== | 2016-12-13 13:19:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:21:53
+==>EXIT getExFor<== | 2016-12-13 13:21:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:21:54
+==>END currList<== | 2016-12-13 13:21:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:23:06
+==>EXIT getExFor<== | 2016-12-13 13:23:06
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:23:06
+==>END currList<== | 2016-12-13 13:23:06
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:23:24
+==>EXIT getExFor<== | 2016-12-13 13:23:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:23:24
+==>END currList<== | 2016-12-13 13:23:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:26:00
+==>EXIT getExFor<== | 2016-12-13 13:26:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:26:00
+==>END currList<== | 2016-12-13 13:26:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:27:22
+==>EXIT getExFor<== | 2016-12-13 13:27:22
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:27:22
+==>END currList<== | 2016-12-13 13:27:22
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:27:39
+==>EXIT getExFor<== | 2016-12-13 13:27:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:27:39
+==>END currList<== | 2016-12-13 13:27:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:29:08
+==>EXIT getExFor<== | 2016-12-13 13:29:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:29:09
+==>END currList<== | 2016-12-13 13:29:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:33:00
+==>EXIT getExFor<== | 2016-12-13 13:33:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:33:00
+==>END currList<== | 2016-12-13 13:33:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:35:31
+==>EXIT getExFor<== | 2016-12-13 13:35:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:35:31
+==>END currList<== | 2016-12-13 13:35:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:37:46
+==>EXIT getExFor<== | 2016-12-13 13:37:47
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:37:47
+==>END currList<== | 2016-12-13 13:37:47
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:40:42
+==>EXIT getExFor<== | 2016-12-13 13:40:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:40:43
+==>END currList<== | 2016-12-13 13:40:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:41:08
+==>EXIT getExFor<== | 2016-12-13 13:41:08
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:41:09
+==>END currList<== | 2016-12-13 13:41:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:44:57
+==>EXIT getExFor<== | 2016-12-13 13:44:57
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:44:57
+==>END currList<== | 2016-12-13 13:44:57
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:47:04
+==>EXIT getExFor<== | 2016-12-13 13:47:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:47:05
+==>END currList<== | 2016-12-13 13:47:05
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:47:24
+==>EXIT getExFor<== | 2016-12-13 13:47:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:47:25
+==>END currList<== | 2016-12-13 13:47:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:48:09
+==>EXIT getExFor<== | 2016-12-13 13:48:10
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:48:10
+==>END currList<== | 2016-12-13 13:48:10
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:48:26
+==>EXIT getExFor<== | 2016-12-13 13:48:27
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:48:27
+==>END currList<== | 2016-12-13 13:48:27
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:49:58
+==>EXIT getExFor<== | 2016-12-13 13:49:58
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:49:59
+==>END currList<== | 2016-12-13 13:49:59
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:50:50
+==>EXIT getExFor<== | 2016-12-13 13:50:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:50:50
+==>END currList<== | 2016-12-13 13:50:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:52:25
+==>EXIT getExFor<== | 2016-12-13 13:52:25
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:52:25
+==>END currList<== | 2016-12-13 13:52:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:55:11
+==>EXIT getExFor<== | 2016-12-13 13:55:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:55:11
+==>END currList<== | 2016-12-13 13:55:11
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:55:30
+==>EXIT getExFor<== | 2016-12-13 13:55:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:55:30
+==>END currList<== | 2016-12-13 13:55:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:56:46
+==>EXIT getExFor<== | 2016-12-13 13:56:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:56:46
+==>END currList<== | 2016-12-13 13:56:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 13:57:12
+==>EXIT getExFor<== | 2016-12-13 13:57:12
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 13:57:12
+==>END currList<== | 2016-12-13 13:57:12
+>->->BEGIN LOG<-<-< | 2016-12-13 14:02:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:09:16
+==>EXIT getExFor<== | 2016-12-13 14:09:16
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:09:16
+==>END currList<== | 2016-12-13 14:09:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:10:03
+==>EXIT getExFor<== | 2016-12-13 14:10:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:10:03
+==>END currList<== | 2016-12-13 14:10:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:12:29
+==>EXIT getExFor<== | 2016-12-13 14:12:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:12:30
+==>END currList<== | 2016-12-13 14:12:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:13:34
+==>EXIT getExFor<== | 2016-12-13 14:13:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:13:34
+==>END currList<== | 2016-12-13 14:13:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:14:08
+==>EXIT getExFor<== | 2016-12-13 14:14:08
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:14:09
+==>END currList<== | 2016-12-13 14:14:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:14:52
+==>EXIT getExFor<== | 2016-12-13 14:14:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:14:53
+==>END currList<== | 2016-12-13 14:14:53
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:15:16
+==>EXIT getExFor<== | 2016-12-13 14:15:16
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:15:17
+==>END currList<== | 2016-12-13 14:15:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:15:32
+==>EXIT getExFor<== | 2016-12-13 14:15:32
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:15:32
+==>END currList<== | 2016-12-13 14:15:32
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:17:38
+==>EXIT getExFor<== | 2016-12-13 14:17:38
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:17:38
+==>END currList<== | 2016-12-13 14:17:38
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:19:40
+==>EXIT getExFor<== | 2016-12-13 14:19:40
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:19:40
+==>END currList<== | 2016-12-13 14:19:40
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:21:29
+==>EXIT getExFor<== | 2016-12-13 14:21:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:21:29
+==>END currList<== | 2016-12-13 14:21:29
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:23:51
+==>EXIT getExFor<== | 2016-12-13 14:23:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:23:51
+==>END currList<== | 2016-12-13 14:23:51
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:25:00
+==>EXIT getExFor<== | 2016-12-13 14:25:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:25:00
+==>END currList<== | 2016-12-13 14:25:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:27:30
+==>EXIT getExFor<== | 2016-12-13 14:27:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:27:30
+==>END currList<== | 2016-12-13 14:27:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:28:04
+==>EXIT getExFor<== | 2016-12-13 14:28:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:28:04
+==>END currList<== | 2016-12-13 14:28:04
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:30:44
+==>EXIT getExFor<== | 2016-12-13 14:30:44
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:30:44
+==>END currList<== | 2016-12-13 14:30:44
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:31:43
+==>EXIT getExFor<== | 2016-12-13 14:31:43
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:31:43
+==>END currList<== | 2016-12-13 14:31:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:39:40
+==>EXIT getExFor<== | 2016-12-13 14:39:40
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:39:40
+==>END currList<== | 2016-12-13 14:39:41
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:40:31
+==>EXIT getExFor<== | 2016-12-13 14:40:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:40:31
+==>END currList<== | 2016-12-13 14:40:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:41:02
+==>EXIT getExFor<== | 2016-12-13 14:41:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:41:02
+==>END currList<== | 2016-12-13 14:41:02
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:41:52
+==>EXIT getExFor<== | 2016-12-13 14:41:52
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:41:52
+==>END currList<== | 2016-12-13 14:41:52
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:43:00
+==>EXIT getExFor<== | 2016-12-13 14:43:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:43:00
+==>END currList<== | 2016-12-13 14:43:01
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:43:32
+==>EXIT getExFor<== | 2016-12-13 14:43:32
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:43:32
+==>END currList<== | 2016-12-13 14:43:32
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:45:08
+==>EXIT getExFor<== | 2016-12-13 14:45:08
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:45:08
+==>END currList<== | 2016-12-13 14:45:08
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:46:06
+==>EXIT getExFor<== | 2016-12-13 14:46:06
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:46:06
+==>END currList<== | 2016-12-13 14:46:06
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:46:35
+==>EXIT getExFor<== | 2016-12-13 14:46:35
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:46:35
+==>END currList<== | 2016-12-13 14:46:35
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:47:03
+==>EXIT getExFor<== | 2016-12-13 14:47:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:47:03
+==>END currList<== | 2016-12-13 14:47:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:47:44
+==>EXIT getExFor<== | 2016-12-13 14:47:44
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:47:44
+==>END currList<== | 2016-12-13 14:47:44
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:48:47
+==>EXIT getExFor<== | 2016-12-13 14:48:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:48:51
+==>END currList<== | 2016-12-13 14:48:51
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:49:03
+==>EXIT getExFor<== | 2016-12-13 14:49:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:49:03
+==>END currList<== | 2016-12-13 14:49:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:49:30
+==>EXIT getExFor<== | 2016-12-13 14:49:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:49:30
+==>END currList<== | 2016-12-13 14:49:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:52:07
+==>EXIT getExFor<== | 2016-12-13 14:52:07
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:52:07
+==>END currList<== | 2016-12-13 14:52:07
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:52:31
+==>EXIT getExFor<== | 2016-12-13 14:52:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:52:31
+==>END currList<== | 2016-12-13 14:52:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:53:02
+==>EXIT getExFor<== | 2016-12-13 14:53:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:53:03
+==>END currList<== | 2016-12-13 14:53:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:54:03
+==>EXIT getExFor<== | 2016-12-13 14:54:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:54:04
+==>END currList<== | 2016-12-13 14:54:04
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 14:56:49
+==>EXIT getExFor<== | 2016-12-13 14:56:49
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 14:56:50
+==>END currList<== | 2016-12-13 14:56:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:00:46
+==>EXIT getExFor<== | 2016-12-13 15:00:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:00:46
+==>END currList<== | 2016-12-13 15:00:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:01:33
+==>EXIT getExFor<== | 2016-12-13 15:01:33
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:01:34
+==>END currList<== | 2016-12-13 15:01:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:02:14
+==>EXIT getExFor<== | 2016-12-13 15:02:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:02:15
+==>END currList<== | 2016-12-13 15:02:15
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:02:56
+==>EXIT getExFor<== | 2016-12-13 15:02:56
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:02:57
+==>END currList<== | 2016-12-13 15:02:57
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:03:51
+==>EXIT getExFor<== | 2016-12-13 15:03:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:03:51
+==>END currList<== | 2016-12-13 15:03:51
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:04:24
+==>EXIT getExFor<== | 2016-12-13 15:04:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:04:24
+==>END currList<== | 2016-12-13 15:04:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:07:45
+==>EXIT getExFor<== | 2016-12-13 15:07:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:07:46
+==>END currList<== | 2016-12-13 15:07:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:08:14
+==>EXIT getExFor<== | 2016-12-13 15:08:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:08:14
+==>END currList<== | 2016-12-13 15:08:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:08:27
+==>EXIT getExFor<== | 2016-12-13 15:08:27
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:08:27
+==>END currList<== | 2016-12-13 15:08:27
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:16:12
+==>EXIT getExFor<== | 2016-12-13 15:16:12
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:16:12
+==>END currList<== | 2016-12-13 15:16:12
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:17:22
+==>EXIT getExFor<== | 2016-12-13 15:17:22
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:17:22
+==>END currList<== | 2016-12-13 15:17:22
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:17:50
+==>EXIT getExFor<== | 2016-12-13 15:17:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:17:50
+==>END currList<== | 2016-12-13 15:17:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:22:49
+==>EXIT getExFor<== | 2016-12-13 15:22:49
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:22:49
+==>END currList<== | 2016-12-13 15:22:49
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:23:29
+==>EXIT getExFor<== | 2016-12-13 15:23:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:23:29
+==>END currList<== | 2016-12-13 15:23:29
+>->->BEGIN LOG<-<-< | 2016-12-13 15:29:26
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:34:42
+==>EXIT getExFor<== | 2016-12-13 15:34:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:34:43
+==>END currList<== | 2016-12-13 15:34:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:35:25
+==>EXIT getExFor<== | 2016-12-13 15:35:25
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:35:26
+==>END currList<== | 2016-12-13 15:35:26
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:36:41
+==>EXIT getExFor<== | 2016-12-13 15:36:41
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:36:42
+==>END currList<== | 2016-12-13 15:36:42
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:45:32
+==>EXIT getExFor<== | 2016-12-13 15:45:32
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:45:32
+==>END currList<== | 2016-12-13 15:45:32
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:45:56
+==>EXIT getExFor<== | 2016-12-13 15:45:56
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:45:57
+==>END currList<== | 2016-12-13 15:45:57
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:46:59
+==>EXIT getExFor<== | 2016-12-13 15:46:59
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:47:00
+==>END currList<== | 2016-12-13 15:47:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:48:53
+==>EXIT getExFor<== | 2016-12-13 15:48:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:48:54
+==>END currList<== | 2016-12-13 15:48:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:49:23
+==>EXIT getExFor<== | 2016-12-13 15:49:23
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:49:23
+==>END currList<== | 2016-12-13 15:49:23
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:49:29
+==>EXIT getExFor<== | 2016-12-13 15:49:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:49:30
+==>END currList<== | 2016-12-13 15:49:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:49:55
+==>EXIT getExFor<== | 2016-12-13 15:49:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:49:56
+==>END currList<== | 2016-12-13 15:49:56
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:52:02
+==>EXIT getExFor<== | 2016-12-13 15:52:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:52:03
+==>END currList<== | 2016-12-13 15:52:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:52:22
+==>EXIT getExFor<== | 2016-12-13 15:52:22
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:52:23
+==>END currList<== | 2016-12-13 15:52:23
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:53:42
+==>EXIT getExFor<== | 2016-12-13 15:53:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:53:42
+==>END currList<== | 2016-12-13 15:53:42
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:53:57
+==>EXIT getExFor<== | 2016-12-13 15:53:58
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:53:58
+==>END currList<== | 2016-12-13 15:53:58
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:58:28
+==>EXIT getExFor<== | 2016-12-13 15:58:28
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:58:28
+==>END currList<== | 2016-12-13 15:58:28
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 15:58:41
+==>EXIT getExFor<== | 2016-12-13 15:58:41
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 15:58:41
+==>END currList<== | 2016-12-13 15:58:41
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:04:17
+==>EXIT getExFor<== | 2016-12-13 16:04:17
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:04:17
+==>END currList<== | 2016-12-13 16:04:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:05:23
+==>EXIT getExFor<== | 2016-12-13 16:05:23
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:05:24
+==>END currList<== | 2016-12-13 16:05:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:05:34
+==>EXIT getExFor<== | 2016-12-13 16:05:35
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:05:35
+==>END currList<== | 2016-12-13 16:05:35
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:06:42
+==>EXIT getExFor<== | 2016-12-13 16:06:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:06:42
+==>END currList<== | 2016-12-13 16:06:42
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:07:18
+==>EXIT getExFor<== | 2016-12-13 16:07:18
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:07:18
+==>END currList<== | 2016-12-13 16:07:18
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:10:09
+==>EXIT getExFor<== | 2016-12-13 16:10:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:10:10
+==>END currList<== | 2016-12-13 16:10:10
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:11:03
+==>EXIT getExFor<== | 2016-12-13 16:11:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:11:04
+==>END currList<== | 2016-12-13 16:11:04
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:11:49
+==>EXIT getExFor<== | 2016-12-13 16:11:49
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:11:50
+==>END currList<== | 2016-12-13 16:11:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:13:52
+==>EXIT getExFor<== | 2016-12-13 16:13:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:13:53
+==>END currList<== | 2016-12-13 16:13:53
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:14:16
+==>EXIT getExFor<== | 2016-12-13 16:14:16
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:14:16
+==>END currList<== | 2016-12-13 16:14:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:14:37
+==>EXIT getExFor<== | 2016-12-13 16:14:38
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:14:38
+==>END currList<== | 2016-12-13 16:14:38
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:15:50
+==>EXIT getExFor<== | 2016-12-13 16:15:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:15:50
+==>END currList<== | 2016-12-13 16:15:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:17:04
+==>EXIT getExFor<== | 2016-12-13 16:17:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:17:04
+==>END currList<== | 2016-12-13 16:17:04
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:17:36
+==>EXIT getExFor<== | 2016-12-13 16:17:36
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:17:36
+==>END currList<== | 2016-12-13 16:17:36
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:18:11
+==>EXIT getExFor<== | 2016-12-13 16:18:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:18:11
+==>END currList<== | 2016-12-13 16:18:11
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:27:42
+==>EXIT getExFor<== | 2016-12-13 16:27:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:27:43
+==>END currList<== | 2016-12-13 16:27:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:28:24
+==>EXIT getExFor<== | 2016-12-13 16:28:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:28:24
+==>END currList<== | 2016-12-13 16:28:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:29:24
+==>EXIT getExFor<== | 2016-12-13 16:29:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:29:24
+==>END currList<== | 2016-12-13 16:29:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:29:57
+==>EXIT getExFor<== | 2016-12-13 16:29:57
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:29:57
+==>END currList<== | 2016-12-13 16:29:57
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:30:39
+==>EXIT getExFor<== | 2016-12-13 16:30:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:30:39
+==>END currList<== | 2016-12-13 16:30:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:30:55
+==>EXIT getExFor<== | 2016-12-13 16:30:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:30:55
+==>END currList<== | 2016-12-13 16:30:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:31:24
+==>EXIT getExFor<== | 2016-12-13 16:31:24
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:31:25
+==>END currList<== | 2016-12-13 16:31:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:31:54
+==>EXIT getExFor<== | 2016-12-13 16:31:54
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:31:55
+==>END currList<== | 2016-12-13 16:31:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:33:28
+==>EXIT getExFor<== | 2016-12-13 16:33:28
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:33:28
+==>END currList<== | 2016-12-13 16:33:29
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:34:55
+==>EXIT getExFor<== | 2016-12-13 16:34:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:34:56
+==>END currList<== | 2016-12-13 16:34:56
+>->->BEGIN LOG<-<-< | 2016-12-13 16:48:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:49:46
+==>EXIT getExFor<== | 2016-12-13 16:49:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:49:46
+==>END currList<== | 2016-12-13 16:49:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:51:29
+==>EXIT getExFor<== | 2016-12-13 16:51:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:51:30
+==>END currList<== | 2016-12-13 16:51:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:53:42
+==>EXIT getExFor<== | 2016-12-13 16:53:42
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:53:42
+==>END currList<== | 2016-12-13 16:53:42
+>->->BEGIN LOG<-<-< | 2016-12-13 16:53:57
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:54:00
+==>EXIT getExFor<== | 2016-12-13 16:54:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:54:00
+==>END currList<== | 2016-12-13 16:54:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:54:50
+==>EXIT getExFor<== | 2016-12-13 16:54:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:54:50
+==>END currList<== | 2016-12-13 16:54:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:55:26
+==>EXIT getExFor<== | 2016-12-13 16:55:26
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:55:27
+==>END currList<== | 2016-12-13 16:55:27
+>->->BEGIN LOG<-<-< | 2016-12-13 16:58:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 16:58:38
+==>EXIT getExFor<== | 2016-12-13 16:58:38
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 16:58:38
+==>END currList<== | 2016-12-13 16:58:38
+>->->BEGIN LOG<-<-< | 2016-12-13 17:04:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:04:53
+==>EXIT getExFor<== | 2016-12-13 17:04:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:04:54
+==>END currList<== | 2016-12-13 17:04:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:06:13
+==>EXIT getExFor<== | 2016-12-13 17:06:13
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:06:13
+==>END currList<== | 2016-12-13 17:06:13
+>->->BEGIN LOG<-<-< | 2016-12-13 17:07:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:08:15
+==>EXIT getExFor<== | 2016-12-13 17:08:15
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:08:15
+==>END currList<== | 2016-12-13 17:08:15
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:08:33
+==>EXIT getExFor<== | 2016-12-13 17:08:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:08:34
+==>END currList<== | 2016-12-13 17:08:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:10:56
+==>EXIT getExFor<== | 2016-12-13 17:10:59
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:11:00
+==>END currList<== | 2016-12-13 17:11:00
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:11:32
+==>EXIT getExFor<== | 2016-12-13 17:11:32
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:11:32
+==>END currList<== | 2016-12-13 17:11:32
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:19:59
+==>EXIT getExFor<== | 2016-12-13 17:19:59
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:19:59
+==>END currList<== | 2016-12-13 17:19:59
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:32:31
+==>EXIT getExFor<== | 2016-12-13 17:32:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:32:31
+>->->BEGIN LOG<-<-< | 2016-12-13 17:32:47
+>->->BEGIN LOG<-<-< | 2016-12-13 17:33:58
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:35:01
+==>EXIT getExFor<== | 2016-12-13 17:35:01
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:35:02
+==>END currList<== | 2016-12-13 17:35:02
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:36:07
+==>EXIT getExFor<== | 2016-12-13 17:36:07
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:36:08
+==>END currList<== | 2016-12-13 17:36:08
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:38:32
+==>EXIT getExFor<== | 2016-12-13 17:38:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:38:34
+==>END currList<== | 2016-12-13 17:38:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:39:39
+==>EXIT getExFor<== | 2016-12-13 17:39:40
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:39:40
+==>END currList<== | 2016-12-13 17:39:40
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:41:04
+==>EXIT getExFor<== | 2016-12-13 17:41:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:41:04
+==>END currList<== | 2016-12-13 17:41:04
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:41:20
+==>EXIT getExFor<== | 2016-12-13 17:41:20
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:41:20
+==>END currList<== | 2016-12-13 17:41:20
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:43:31
+==>EXIT getExFor<== | 2016-12-13 17:43:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:43:31
+==>END currList<== | 2016-12-13 17:43:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:44:12
+==>EXIT getExFor<== | 2016-12-13 17:44:12
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:44:12
+==>END currList<== | 2016-12-13 17:44:12
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:52:30
+==>EXIT getExFor<== | 2016-12-13 17:52:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:52:31
+==>END currList<== | 2016-12-13 17:52:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:54:58
+==>EXIT getExFor<== | 2016-12-13 17:54:58
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:54:58
+==>END currList<== | 2016-12-13 17:54:58
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:56:06
+==>EXIT getExFor<== | 2016-12-13 17:56:06
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:56:06
+==>END currList<== | 2016-12-13 17:56:06
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 17:58:39
+==>EXIT getExFor<== | 2016-12-13 17:58:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 17:58:40
+==>END currList<== | 2016-12-13 17:58:40
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:00:09
+==>EXIT getExFor<== | 2016-12-13 18:00:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:00:10
+==>END currList<== | 2016-12-13 18:00:10
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:01:11
+==>EXIT getExFor<== | 2016-12-13 18:01:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:01:12
+==>END currList<== | 2016-12-13 18:01:12
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:02:33
+==>EXIT getExFor<== | 2016-12-13 18:02:33
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:02:33
+==>END currList<== | 2016-12-13 18:02:33
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:02:53
+==>EXIT getExFor<== | 2016-12-13 18:02:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:02:53
+==>END currList<== | 2016-12-13 18:02:53
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:03:14
+==>EXIT getExFor<== | 2016-12-13 18:03:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:03:14
+==>END currList<== | 2016-12-13 18:03:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:03:39
+==>EXIT getExFor<== | 2016-12-13 18:03:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:03:39
+==>END currList<== | 2016-12-13 18:03:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:03:52
+==>EXIT getExFor<== | 2016-12-13 18:03:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:03:53
+==>END currList<== | 2016-12-13 18:03:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:04:39
+==>EXIT getExFor<== | 2016-12-13 18:04:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:04:39
+==>END currList<== | 2016-12-13 18:04:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:04:50
+==>EXIT getExFor<== | 2016-12-13 18:04:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:04:50
+==>END currList<== | 2016-12-13 18:04:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:05:31
+==>EXIT getExFor<== | 2016-12-13 18:05:31
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:05:31
+==>END currList<== | 2016-12-13 18:05:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:06:12
+==>EXIT getExFor<== | 2016-12-13 18:06:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:06:14
+==>END currList<== | 2016-12-13 18:06:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:07:34
+==>EXIT getExFor<== | 2016-12-13 18:07:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:07:34
+==>END currList<== | 2016-12-13 18:07:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:07:44
+==>EXIT getExFor<== | 2016-12-13 18:07:45
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:07:45
+==>END currList<== | 2016-12-13 18:07:45
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:07:55
+==>EXIT getExFor<== | 2016-12-13 18:07:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:07:56
+==>END currList<== | 2016-12-13 18:07:56
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:08:05
+==>EXIT getExFor<== | 2016-12-13 18:08:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:08:05
+==>END currList<== | 2016-12-13 18:08:05
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:08:33
+==>EXIT getExFor<== | 2016-12-13 18:08:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:08:34
+==>END currList<== | 2016-12-13 18:08:34
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:08:47
+==>EXIT getExFor<== | 2016-12-13 18:08:47
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:08:48
+==>END currList<== | 2016-12-13 18:08:48
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:12:49
+==>EXIT getExFor<== | 2016-12-13 18:12:49
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:12:49
+==>END currList<== | 2016-12-13 18:12:49
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:13:05
+==>EXIT getExFor<== | 2016-12-13 18:13:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:13:05
+==>END currList<== | 2016-12-13 18:13:05
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:14:21
+==>EXIT getExFor<== | 2016-12-13 18:14:21
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:14:21
+==>END currList<== | 2016-12-13 18:14:21
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:14:41
+==>EXIT getExFor<== | 2016-12-13 18:14:41
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:14:41
+==>END currList<== | 2016-12-13 18:14:41
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:14:50
+==>EXIT getExFor<== | 2016-12-13 18:14:50
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:14:50
+==>END currList<== | 2016-12-13 18:14:50
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:18:02
+==>EXIT getExFor<== | 2016-12-13 18:18:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:18:02
+==>END currList<== | 2016-12-13 18:18:02
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:25:17
+==>EXIT getExFor<== | 2016-12-13 18:25:17
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:25:18
+==>END currList<== | 2016-12-13 18:25:18
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:26:20
+==>EXIT getExFor<== | 2016-12-13 18:26:20
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:26:21
+==>END currList<== | 2016-12-13 18:26:21
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:28:20
+==>EXIT getExFor<== | 2016-12-13 18:28:20
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:28:20
+==>END currList<== | 2016-12-13 18:28:20
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:29:55
+==>EXIT getExFor<== | 2016-12-13 18:29:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:29:55
+==>END currList<== | 2016-12-13 18:29:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:31:07
+==>EXIT getExFor<== | 2016-12-13 18:31:07
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:31:07
+==>END currList<== | 2016-12-13 18:31:07
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:31:27
+==>EXIT getExFor<== | 2016-12-13 18:31:27
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:31:27
+==>END currList<== | 2016-12-13 18:31:27
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:34:53
+==>EXIT getExFor<== | 2016-12-13 18:34:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:34:54
+==>END currList<== | 2016-12-13 18:34:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:39:02
+==>EXIT getExFor<== | 2016-12-13 18:39:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:39:03
+==>END currList<== | 2016-12-13 18:39:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:40:29
+==>EXIT getExFor<== | 2016-12-13 18:40:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:40:29
+==>END currList<== | 2016-12-13 18:40:29
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:41:32
+==>EXIT getExFor<== | 2016-12-13 18:41:33
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:41:33
+==>END currList<== | 2016-12-13 18:41:33
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:41:55
+==>EXIT getExFor<== | 2016-12-13 18:41:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:41:56
+==>END currList<== | 2016-12-13 18:41:56
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:43:51
+==>EXIT getExFor<== | 2016-12-13 18:43:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:43:51
+==>END currList<== | 2016-12-13 18:43:51
+>->->BEGIN LOG<-<-< | 2016-12-13 18:48:05
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:48:14
+==>EXIT getExFor<== | 2016-12-13 18:48:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:48:14
+==>END currList<== | 2016-12-13 18:48:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:49:23
+==>EXIT getExFor<== | 2016-12-13 18:49:23
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:49:23
+==>END currList<== | 2016-12-13 18:49:23
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 18:49:25
+>->->BEGIN LOG<-<-< | 2016-12-13 18:55:38
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 18:56:11
+==>EXIT getExFor<== | 2016-12-13 18:56:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 18:56:12
+==>END currList<== | 2016-12-13 18:56:12
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 18:56:13
+>->->BEGIN LOG<-<-< | 2016-12-13 19:00:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:03:15
+==>EXIT getExFor<== | 2016-12-13 19:03:15
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:03:16
+==>END currList<== | 2016-12-13 19:03:16
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:03:17
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:03:20
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:06:53
+==>EXIT getExFor<== | 2016-12-13 19:06:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:06:53
+==>END currList<== | 2016-12-13 19:06:53
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:07:33
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:13:17
+==>EXIT getExFor<== | 2016-12-13 19:13:17
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:13:17
+==>END currList<== | 2016-12-13 19:13:17
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:13:19
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:13:54
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:14:17
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:17:46
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:17:54
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:17:58
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:18:12
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:19:19
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:19:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:19:26
+==>EXIT getExFor<== | 2016-12-13 19:19:26
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:19:26
+==>END currList<== | 2016-12-13 19:19:26
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:19:28
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:19:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:21:05
+==>EXIT getExFor<== | 2016-12-13 19:21:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:21:05
+==>END currList<== | 2016-12-13 19:21:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:21:18
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:21:39
+==>EXIT getExFor<== | 2016-12-13 19:21:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:21:39
+==>END currList<== | 2016-12-13 19:21:39
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:21:43
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:22:10
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:23:54
+==>EXIT getExFor<== | 2016-12-13 19:23:54
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:23:55
+==>END currList<== | 2016-12-13 19:23:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:24:59
+==>EXIT getExFor<== | 2016-12-13 19:25:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:25:00
+==>END currList<== | 2016-12-13 19:25:00
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:25:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:25:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:25:14
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:25:39
+==>EXIT getExFor<== | 2016-12-13 19:25:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:25:39
+==>END currList<== | 2016-12-13 19:25:39
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:25:43
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:25:51
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:28:47
+==>EXIT getExFor<== | 2016-12-13 19:28:47
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:28:48
+==>END currList<== | 2016-12-13 19:28:48
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:28:55
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:29:10
+>->->BEGIN LOG<-<-< | 2016-12-13 19:45:53
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:46:14
+==>EXIT getExFor<== | 2016-12-13 19:46:15
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:46:15
+==>END currList<== | 2016-12-13 19:46:15
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:46:22
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:46:33
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:48:02
+==>EXIT getExFor<== | 2016-12-13 19:48:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:48:02
+==>END currList<== | 2016-12-13 19:48:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:48:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:48:08
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:48:30
+==>EXIT getExFor<== | 2016-12-13 19:48:30
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:48:30
+==>END currList<== | 2016-12-13 19:48:30
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:48:34
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:48:38
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:48:41
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:49:04
+==>EXIT getExFor<== | 2016-12-13 19:49:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:49:05
+==>END currList<== | 2016-12-13 19:49:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:49:08
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:49:22
+==>EXIT getExFor<== | 2016-12-13 19:49:22
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:49:22
+==>END currList<== | 2016-12-13 19:49:22
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:49:24
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:49:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:51:41
+==>EXIT getExFor<== | 2016-12-13 19:51:41
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:51:41
+==>END currList<== | 2016-12-13 19:51:41
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:51:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:52:16
+==>EXIT getExFor<== | 2016-12-13 19:52:16
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:52:16
+==>END currList<== | 2016-12-13 19:52:16
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:52:18
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:52:35
+==>EXIT getExFor<== | 2016-12-13 19:52:36
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:52:36
+==>END currList<== | 2016-12-13 19:52:36
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:52:37
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:52:56
+==>EXIT getExFor<== | 2016-12-13 19:52:56
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:52:57
+==>END currList<== | 2016-12-13 19:52:57
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:52:58
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:53:13
+==>EXIT getExFor<== | 2016-12-13 19:53:13
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:53:14
+==>END currList<== | 2016-12-13 19:53:14
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:53:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:55:05
+==>EXIT getExFor<== | 2016-12-13 19:55:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:55:05
+==>END currList<== | 2016-12-13 19:55:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 19:55:07
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:58:34
+==>EXIT getExFor<== | 2016-12-13 19:58:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:58:35
+==>END currList<== | 2016-12-13 19:58:35
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 19:58:48
+==>EXIT getExFor<== | 2016-12-13 19:58:48
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 19:58:48
+==>END currList<== | 2016-12-13 19:58:48
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:03:08
+==>EXIT getExFor<== | 2016-12-13 20:03:08
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:03:08
+==>END currList<== | 2016-12-13 20:03:08
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:05:01
+==>EXIT getExFor<== | 2016-12-13 20:05:01
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:05:02
+==>END currList<== | 2016-12-13 20:05:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:05:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:05:40
+==>EXIT getExFor<== | 2016-12-13 20:05:40
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:05:41
+==>END currList<== | 2016-12-13 20:05:41
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:05:43
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:12:05
+==>EXIT getExFor<== | 2016-12-13 20:12:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:12:06
+==>END currList<== | 2016-12-13 20:12:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:12:07
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:14:14
+==>EXIT getExFor<== | 2016-12-13 20:14:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:14:15
+==>END currList<== | 2016-12-13 20:14:15
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:14:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:15:18
+==>EXIT getExFor<== | 2016-12-13 20:15:18
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:15:19
+==>END currList<== | 2016-12-13 20:15:19
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:15:20
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:16:46
+==>EXIT getExFor<== | 2016-12-13 20:16:46
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:16:46
+==>END currList<== | 2016-12-13 20:16:46
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:16:48
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:17:47
+==>EXIT getExFor<== | 2016-12-13 20:17:47
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:17:47
+==>END currList<== | 2016-12-13 20:17:47
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:17:49
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:19:59
+==>EXIT getExFor<== | 2016-12-13 20:20:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:20:00
+==>END currList<== | 2016-12-13 20:20:00
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:20:02
+>->->BEGIN LOG<-<-< | 2016-12-13 20:21:42
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:23:47
+==>EXIT getExFor<== | 2016-12-13 20:23:47
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:23:47
+==>END currList<== | 2016-12-13 20:23:47
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:23:49
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:25:33
+==>EXIT getExFor<== | 2016-12-13 20:25:33
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:25:34
+==>END currList<== | 2016-12-13 20:25:34
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:25:35
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:26:38
+==>EXIT getExFor<== | 2016-12-13 20:26:38
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:26:38
+==>END currList<== | 2016-12-13 20:26:38
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:26:40
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:28:20
+==>EXIT getExFor<== | 2016-12-13 20:28:20
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:28:20
+==>END currList<== | 2016-12-13 20:28:20
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:28:22
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:29:14
+==>EXIT getExFor<== | 2016-12-13 20:29:14
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:29:14
+==>END currList<== | 2016-12-13 20:29:14
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:29:16
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:31:55
+==>EXIT getExFor<== | 2016-12-13 20:31:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:31:55
+==>END currList<== | 2016-12-13 20:31:55
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:31:57
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:32:41
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:34:50
+==>EXIT getExFor<== | 2016-12-13 20:34:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:34:51
+==>END currList<== | 2016-12-13 20:34:51
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:34:53
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:38:02
+==>EXIT getExFor<== | 2016-12-13 20:38:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:38:03
+==>END currList<== | 2016-12-13 20:38:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:38:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:38:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:39:22
+==>EXIT getExFor<== | 2016-12-13 20:39:22
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:39:22
+==>END currList<== | 2016-12-13 20:39:22
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:39:23
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:08
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:40:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:44:29
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:44:31
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:51:00
+==>EXIT getExFor<== | 2016-12-13 20:51:00
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:51:00
+==>END currList<== | 2016-12-13 20:51:00
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:51:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:51:07
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:08
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:11
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 20:57:29
+==>EXIT getExFor<== | 2016-12-13 20:57:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 20:57:29
+==>END currList<== | 2016-12-13 20:57:29
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 20:57:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:03:39
+==>EXIT getExFor<== | 2016-12-13 21:03:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:03:39
+==>END currList<== | 2016-12-13 21:03:39
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:03:51
+==>EXIT getExFor<== | 2016-12-13 21:03:52
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:03:52
+==>END currList<== | 2016-12-13 21:03:52
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:04:08
+==>EXIT getExFor<== | 2016-12-13 21:04:08
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:04:08
+==>END currList<== | 2016-12-13 21:04:08
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:10
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:04:45
+==>EXIT getExFor<== | 2016-12-13 21:04:45
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:04:45
+==>END currList<== | 2016-12-13 21:04:45
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:47
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:53
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:54
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:57
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:04:59
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:05:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:06:15
+==>EXIT getExFor<== | 2016-12-13 21:06:15
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:06:15
+==>END currList<== | 2016-12-13 21:06:15
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:06:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:12:09
+==>EXIT getExFor<== | 2016-12-13 21:12:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:12:09
+==>END currList<== | 2016-12-13 21:12:09
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:12:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:12:37
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:19:42
+==>EXIT getExFor<== | 2016-12-13 21:19:43
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:19:43
+==>END currList<== | 2016-12-13 21:19:43
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:19:44
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:21:05
+==>EXIT getExFor<== | 2016-12-13 21:21:05
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:21:05
+==>END currList<== | 2016-12-13 21:21:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:21:06
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:22:19
+==>EXIT getExFor<== | 2016-12-13 21:22:19
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:22:20
+==>END currList<== | 2016-12-13 21:22:20
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:22:21
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:22:35
+==>EXIT getExFor<== | 2016-12-13 21:22:35
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:22:35
+==>END currList<== | 2016-12-13 21:22:35
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:22:36
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:23:23
+==>EXIT getExFor<== | 2016-12-13 21:23:23
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:23:23
+==>END currList<== | 2016-12-13 21:23:23
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:24
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:28
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:29
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:30
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:31
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:47
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:23:48
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:34:43
+==>EXIT getExFor<== | 2016-12-13 21:34:43
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:34:43
+==>END currList<== | 2016-12-13 21:34:43
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:34:44
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:34:48
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:34:50
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:35:00
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:05
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:08
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:11
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:37:12
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:38:08
+==>EXIT getExFor<== | 2016-12-13 21:38:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:38:09
+==>END currList<== | 2016-12-13 21:38:09
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:13
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:14
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:17
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:38:28
+==>EXIT getExFor<== | 2016-12-13 21:38:28
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:38:28
+==>END currList<== | 2016-12-13 21:38:28
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:31
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:56
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:38:58
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:00
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:04
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:06
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:08
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:11
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:16
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:18
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:20
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:21
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:39:24
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:43:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:52:04
+==>EXIT getExFor<== | 2016-12-13 21:52:04
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:52:04
+==>END currList<== | 2016-12-13 21:52:04
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:52:05
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:52:24
+==>EXIT getExFor<== | 2016-12-13 21:52:25
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:52:25
+==>END currList<== | 2016-12-13 21:52:25
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:52:26
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:53:53
+==>EXIT getExFor<== | 2016-12-13 21:53:53
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:53:53
+==>END currList<== | 2016-12-13 21:53:53
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:53:54
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:54:23
+==>EXIT getExFor<== | 2016-12-13 21:54:23
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:54:23
+==>END currList<== | 2016-12-13 21:54:23
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:54:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:54:34
+==>EXIT getExFor<== | 2016-12-13 21:54:34
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:54:34
+==>END currList<== | 2016-12-13 21:54:34
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:54:35
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:56:55
+==>EXIT getExFor<== | 2016-12-13 21:56:55
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:56:55
+==>END currList<== | 2016-12-13 21:56:55
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:56:56
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:57:11
+==>EXIT getExFor<== | 2016-12-13 21:57:11
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:57:11
+==>END currList<== | 2016-12-13 21:57:11
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:57:12
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:58:16
+==>EXIT getExFor<== | 2016-12-13 21:58:17
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:58:17
+==>END currList<== | 2016-12-13 21:58:17
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 21:58:18
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 21:59:09
+==>EXIT getExFor<== | 2016-12-13 21:59:09
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 21:59:09
+==>END currList<== | 2016-12-13 21:59:09
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:01:27
+==>EXIT getExFor<== | 2016-12-13 22:01:27
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:01:28
+==>END currList<== | 2016-12-13 22:01:28
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:01:29
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:02:20
+==>EXIT getExFor<== | 2016-12-13 22:02:20
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:02:20
+==>END currList<== | 2016-12-13 22:02:20
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:02:21
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:02:51
+==>EXIT getExFor<== | 2016-12-13 22:02:51
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:02:51
+==>END currList<== | 2016-12-13 22:02:51
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:02:52
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:03:10
+==>EXIT getExFor<== | 2016-12-13 22:03:10
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:03:10
+==>END currList<== | 2016-12-13 22:03:10
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:03:11
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:03:37
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:05:17
+==>EXIT getExFor<== | 2016-12-13 22:05:17
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:05:17
+==>END currList<== | 2016-12-13 22:05:17
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:05:18
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:05:22
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:05:39
+==>EXIT getExFor<== | 2016-12-13 22:05:39
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:05:39
+==>END currList<== | 2016-12-13 22:05:39
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:05:40
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:05:44
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:06:45
+==>EXIT getExFor<== | 2016-12-13 22:06:45
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:06:45
+==>END currList<== | 2016-12-13 22:06:45
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:06:46
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:07:02
+==>EXIT getExFor<== | 2016-12-13 22:07:02
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:07:02
+==>END currList<== | 2016-12-13 22:07:02
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:07:03
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:07:29
+==>EXIT getExFor<== | 2016-12-13 22:07:29
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:07:29
+==>END currList<== | 2016-12-13 22:07:29
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:07:30
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:08:57
+==>EXIT getExFor<== | 2016-12-13 22:08:57
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:08:57
+==>END currList<== | 2016-12-13 22:08:57
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:08:58
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:11:18
+==>EXIT getExFor<== | 2016-12-13 22:11:18
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:11:18
+==>END currList<== | 2016-12-13 22:11:18
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:11:19
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:11:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:32:57
+==>EXIT getExFor<== | 2016-12-13 22:32:57
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:32:57
+==>END currList<== | 2016-12-13 22:32:57
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:32:58
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:33:07
+>->->BEGIN LOG<-<-< | 2016-12-13 22:33:25
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:33:27
+==>EXIT getExFor<== | 2016-12-13 22:33:27
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:33:27
+==>END currList<== | 2016-12-13 22:33:27
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:33:29
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:33:33
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:33:36
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:33:39
+>->->BEGIN LOG<-<-< | 2016-12-13 22:46:55
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 22:48:03
+==>EXIT getExFor<== | 2016-12-13 22:48:03
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 22:48:03
+==>END currList<== | 2016-12-13 22:48:03
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:48:04
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 22:56:24
+==>RECEIVED REQUEST<==
+==>BEGIN getExFor<== | 2016-12-13 23:00:32
+==>EXIT getExFor<== | 2016-12-13 23:00:32
+==>RECEIVED REQUEST<==
+==>BEGIN currList<== | 2016-12-13 23:00:32
+==>END currList<== | 2016-12-13 23:00:32
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 23:00:33
+==>RECEIVED REQUEST<==
+==>BEGIN history<== | 2016-12-13 23:00:36

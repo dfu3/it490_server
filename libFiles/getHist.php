@@ -4,7 +4,7 @@
 function getHist($db, $curr1, $curr2)
 {
 
-    $q = "select * from exchange_backup where (currency_1='" . $curr1 . "' and currency_2='" . $curr2 . "') or (currency_1='" . $curr2 . "' and currency_2='" . $curr1 . "') order by grouping desc limit 3;";
+    $q = "select * from exchange_backup where (currency_1='" . $curr1 . "' and currency_2='" . $curr2 . "') or (currency_1='" . $curr2 . "' and currency_2='" . $curr1 . "') order by grouping desc limit 20;";
 
     $rates = array();
     
@@ -33,8 +33,8 @@ function getHist($db, $curr1, $curr2)
     
 }
 
-//$db = new mysqli("10.200.173.10","server","letMe1n","user_info");
-//print_r(getHist($db, 'USD', 'EUR'));
+#$db = new mysqli("10.200.44.178","server","letMe1n","user_info");
+#print_r(getHist($db, 'USD', 'EUR'));
 
 
 ?>

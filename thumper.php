@@ -9,9 +9,29 @@ require('libFiles/register.php');
 require('libFiles/userPos.php');
 require('libFiles/verLogin.php');
 require('libFiles/getHist.php');
+require('libFiles/getPred.php');
 
-$db = new mysqli("10.200.173.156","server","letMe1n","user_info");
+
+$db = new mysqli("10.200.173.68","server","letMe1n","user_info"); //PAUL'S IP ADD
+if(mysqli_connect_errno())
+    {
+        $db = new mysqli("10.200.173.193","server","letMe1n","user_info"); //TIM'S IP ADD
+        
+    }
+print_r($db);
+
 $log = fopen( 'thump.log', 'a' );
+
+
+function suggest($user)
+{
+    global $db;
+    global $log;
+
+    fwrite($log, "==>BEGIN getPred<== | " . now());
+    return getPred($db, $user);
+    fwrite($log, "==>END getPred<== | " . now());
+}
 
 function history($curr1, $curr2)
 {
@@ -132,6 +152,8 @@ function requestProcessor($request)
         return currList();
     case "get_history":
         return history($request['curr1'], $request['curr2']);
+    case "suggest":
+        return suggest($request['username']);
   }
  
 }

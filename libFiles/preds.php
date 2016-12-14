@@ -24,6 +24,15 @@ function getPred($db, $user) //get suggestions for currPairs of user
     
     $q = "select * from trade_limits where currency_1 IN (select currency from $user) or currency_2 IN (select currency from $user)";
     $suggs= array();
+
+    $currDic = array(); //user's currency = arraym of posible trading currency
+
+    foreach($myCurrs as $myCurr)
+        {
+            $currDic[$myCurr] = array();
+        }
+
+    $testArr = array();
     
     if($db->query($q) == true)
         {
@@ -36,46 +45,59 @@ function getPred($db, $user) //get suggestions for currPairs of user
                     $lower = floatval($res['lower']);
                     $curr1 = ($res['currency_1']);
                     $curr2 = ($res['currency_2']);
-                    
+                    $score = $upper - $lower;
+
+                    $test = "";
                     if($rate > $upper)
                         {
                             if(in_array($curr1, $myCurrs))
                                 {
-                                    $sugg = "Trade $curr1 for $curr2";
-                                    array_push($suggs, $sugg);
+                                    $test.= "upper ";
+                                    $temp[$curr2] = $score;
+                                    $currDic[$curr1] = $temp;
                                 }
                         }
                     elseif($rate < $lower)
                         {
                             if(in_array($curr2, $myCurrs))
                                 {
-                                    $sugg = "Trade $curr2 for $curr1";
-                                    array_push($suggs, $sugg);
+                                    $test.= "lower ";
+                                    $temp[$curr1] = $score;
+                                    $currDic[$curr2] = $temp;
                                 }  
                         }
-                    
+
+                    array_push($testArr, $test);
                     
 
                 }     
         }
     else { return "FAIL"; }
 
-
-    $table = "<table id='exRates'>";
-    $table.= '<thead> <tr> <th> Trade Predictions </th> </thead>';
-    $table.= '<tbody>';
-    foreach($suggs as $sugg)
+    $toTrade = array();
+    foreach($currDic as $key=>$val)
         {
-            $table.= '<tr> <td> ' . $sugg . ' </td> </tr>';
-        }
-    $table.= '</tbody>';
-    $table.= '</table>';
+            $max = 0;
+            $best = "NONE";
+            
+            foreach($val as $inKey=>$inVal)
+                {
+                    //print_r($key);
+                    if($inVal > $max)
+                        {
+                            $max = $inVal;
+                            $best = $inKey;                            
+                        }
+                }
 
-    return $table;
-    
+            $toTrade[$key] = $best;
+        }
+
+    return ($toTrade);
+        
 }
 
-//$db = new mysqli("10.200.173.68","server","letMe1n","user_info");
+//$db = new mysqli("10.200.45.16","server","letMe1n","user_info");
 //print_r(getPred($db, 'paul'));
 
 ?>
